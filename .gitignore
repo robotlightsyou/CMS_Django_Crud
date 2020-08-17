@@ -13,7 +13,7 @@ db.sqlite3-journal
 media
 crud/crud/settings.py
 */settings.py
-**/posts_json
+**/posts.json
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
 # in your Git repository. Update and uncomment the following line accordingly.
