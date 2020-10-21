@@ -86,3 +86,11 @@ body {
   #side{
     background: #424141 ;
   }
+  
+  [name='title']{
+    background: #424141 ;
+  }
+
+  [name='content']{
+    background: #424141 ;
+  }
